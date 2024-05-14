@@ -14,8 +14,10 @@
 
 ## Select Papers
 
-| Link | Tech | Tissue(s) | Species 
+| Link | Assay | Tissue(s) | Species 
 | -----| ----- | ------ | -------
+| [Honnel...Dyer](https://www.nature.com/articles/s41467-021-27924-y) | scATAC, vsx2 ChIP | mouse
+| [Marchal...Swaroop](https://www.nature.com/articles/s41467-022-33427-1) | HiC, ATAC, cut&run (histones) | human
 | [Thomas...Cherry](https://www.cell.com/developmental-cell/fulltext/S1534-5807(22)00120-4) | scATAC | retina, organoids | human
 | [Cherry...Greenberg](https://www.pnas.org/doi/full/10.1073/pnas.1922501117) | ATAC, DNAseI-HS, H3K27Ac | retina, rpe | human, mouse
 | [Finkbeiner...Reh](https://www.sciencedirect.com/science/article/pii/S221112472101809X) | scATAC | fetal retina, hESC retinal organoids | human
